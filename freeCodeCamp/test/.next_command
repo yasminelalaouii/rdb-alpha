@@ -35,3 +35,4 @@ more README.md
 change ..
 cd ..
 ls --color=auto
+mv website website-boilerplate
