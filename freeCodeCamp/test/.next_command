@@ -3,3 +3,4 @@ find
 ls --color=auto
 find -name icons
 mv CodeRoad.svg client/assets/icons
+mv freeCodeCamp.svg client/assets/icons
